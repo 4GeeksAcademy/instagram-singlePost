@@ -23,12 +23,12 @@ body {
     padding: 0px;
 }
 
-.htmlText {
+.html-text {
     display: flex;
     align-items: center;
 }
 
-.htmlText div {
+.html-text div {
     padding: 0px 5px;
 }
 
